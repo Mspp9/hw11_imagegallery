@@ -1,0 +1,16 @@
+.container
+{
+  max-width: 100rem;
+  margin: 0 auto;
+  padding: 0 2 rem 2rem;
+}
+.heading
+{
+  font-family: "Montserrat",Arial,sans-serif;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-align: center;
+  padding: 3.5rem 0;
+  color: #1a1a1a;
+}
