@@ -14,3 +14,21 @@
   padding: 3.5rem 0;
   color: #1a1a1a;
 }
+.heading span
+{
+  display: block;
+  }
+  .Gallery
+  {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -1rem -1rem;
+     }
+        .gallery-item {
+
+          flex: 1 0 24rem;
+
+          margin: 1rem;
+          box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
+          overflow: hidden;
+        }
